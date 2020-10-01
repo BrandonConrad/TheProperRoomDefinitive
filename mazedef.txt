@@ -7,7 +7,7 @@ HW	The nothing room. This is a room full of pure darkness! You do not find anyth
 LA	The Aqua room where you find a whole bunch of rare water species. As you look at all of the bizare looking animals, you are still on the lookout for the exit portal, don't let the animals distract you too much. You're almost there!	Where people wash the bugs from their clothes	
 G	The Industrial room. You find yourself aimlessly walking in an obnoxiously built industrial room that is filled with nothing but bricks and pipes. This room does not provide the exit. 	Where people park their horseless trolleys	
 LR	The Nature room. While this is not the way out of the dimension, this place is full of wildlife. Animals going about their animalistic lives, but there is no exit here.	Where the dog suns himself	
-E	The Entrance. This is where your search begins. Should you make it out of here, only you can figure this place out!	Where people enter our humble abode	
+E	Entrance. This is where your search begins. Should you make it out of here, only you can figure this place out!	Where people enter our humble abode	
 MAPDEF	4	4	
 	K1	DR	LR
 P	K2	HW	E
